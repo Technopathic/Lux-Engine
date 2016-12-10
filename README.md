@@ -1,7 +1,7 @@
 #Lux-Engine
 
 ###What is Lux-Engine?
-Lux Engine is a DirectX11 Engine written in C++. The goal of Lux Engine is to be as bleeding edge as possible, just because I believe the point of creating any sort of engine is to allow it take full advantage of whatever hardware it is running on.
+Lux Engine is a DirectX11 Engine written in C++. The goal of Lux Engine is to be as bleeding edge as possible (from an indie developer). I've been seeing a lot of AAA games lately and have been inspired and amazed by how amazing the graphics look. Since it's becoming more and more commonplace to have the necessary hardware to run these high-end graphics engines, I feel like we should also be creating more engines and applications which take advantage of our resources to the fullest.
 
 ###Screenshots
 
@@ -12,8 +12,8 @@ I've included the SLN for Visual Studios. Everything you need should already be 
 I've divided the engine into a 4 part framework. System, Input, Graphics, and Main.
 
 ###Technologies
-C++
-DirectX11
+* C++
+* DirectX11
 
 #License
 MIT
