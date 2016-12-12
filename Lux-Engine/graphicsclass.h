@@ -5,6 +5,7 @@
 #include "cameraclass.h"
 #include "modelclass.h"
 #include "colorshaderclass.h"
+#include "textureshaderclass.h"
 
 const bool FULL_SCREEN = false;
 const bool VSYNC_ENABLED = true;
@@ -29,7 +30,7 @@ class GraphicsClass
 		D3DClass* m_D3D;
 		CameraClass* m_Camera;
 		ModelClass* m_Model;
-		ColorShaderClass* m_ColorShader;
+		TextureShaderClass* m_TextureShader;
 
 };
 
